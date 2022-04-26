@@ -1,0 +1,33 @@
+Consigna :
+    En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+                  *Variables
+		   *Strings
+                    *Funciones (argumentos, return)
+                     *Declaraciones if
+                      *Valores booleanos (true, false)
+
+
+
+
+Resoluciones:
+
+*Variables : Son como cajitas separadas en donde podemos guardar cosas y luego volver a buscarlas para usarlas en diferentes cosas.
+
+
+*Strings: son textos, pueden ser nombres, cosas, pero para usarlos y no crear errores, debemos especificarlos entre comillas.
+
+
+*Funciones : Las funciones son parecidas a las variables, son como cajas de memoria, peroo, en vez de almacenar un dato solo, podemos almacenar procesos o tareas que se ejecutan aparte, y cuando las necesitemos llamarlas para que nos devuelvan un resultado o otro dato que necesitemos calcular.
+
+
+*Argumentos: Es por asi decirlo agregar una pequeña caja dentro de la caja mayor que es la funcion. Lo que me permite hacer es tener un pequeño espacio que yo puedo cambiar el dato constantemente y hacer que la funcion se ejecute con los diferentes datos que yo voy añadiendo a esa pequeña caja ( variable).
+
+
+*Return: Este nos permite finalizar el proceso de la funcion y regresarnos a pantalla el resultado que se haya obtenido. Por ejemplo si fue una suma, return le pondria pausa al procesoy nos mostraria el resultado de esa suma. 
+
+
+*If : If  se usa como un "si tal cosa se cumple entonces"; y nos sirve para poner condiciones. Si la condicion se logra realizar bien, cumple la tarea que le hayamos especificado y sino podemos especificar otras tareas. Nos permite tener 1 o mas caminos con diferentes resultados.
+
+
+*Booleanos: Los boleanos son simplemente dos estados, verdadero o falso (1-0) es como decir lampara prendida o lampara apagada. No hay puntos intermedios. Y me sirve para hacer funciones concretas.
