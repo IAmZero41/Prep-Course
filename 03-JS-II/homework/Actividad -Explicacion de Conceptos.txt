@@ -1,0 +1,17 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+
+Resolucion:
+
+FOR : Podriamos decir que seria como la expresion "para" ("Para" realizar tal cosa, hace esto). Con esta expresion podemos crear bucles. Definimos una variable, la condicion y un "sumador" o caracteristica que vaya sumando en cada recorrido del bucle.Lo que si debo recordar muy importante, es que siempre debo darle un return final, para que el bucle no sea infinito y cuelgue la pc.
+
+&& : Esto es un "Y". Me sirve para concatenar procesos o expresiones logicas (Esto "y" Esto). Funcionara solo si ambas expresiones son verdaderas.
+
+|| : Esto seria un "O" .. (Esto "O" Aquello). Y si la primera expresion usada es false, directamente anulara la funcion. La primera expresion debe ser true.
+
+! : Seria un not (o una negacion) y la uso antes de alguna expresion logica por ejemplo " 1 !==  1" y ahi estaria diciendo que uno no es igual a uno. Algo asi seria, pero mas adelante vere mas usos. 
